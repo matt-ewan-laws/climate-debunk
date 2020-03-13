@@ -1,6 +1,13 @@
 - claim: Recent solar output has been high
   status: debunked
-- claim: Lamb Chart propegated by Tim Ball is accurate
+- claim: Hubert Lamb's Chart propegated by Tim Ball is accurate
+  tags:
+    - tim ball
+    - misleading chart
+  facts:
+    - based on a IPCC report that had many caveats
+  debunkingResources:
+    - link: 'https://blog.hotwhopper.com/2015/03/tim-ball-recycling-medieval-warming.html'
 - claim: Noaa and IPCC have fiddled with the data deliberately making the historical data look colder so therefore the sharpness on their graph looks steeper. They have removed data they have fictitious data from 40% of the sites in America that no longer exist and they're still putting data in that is assumed
 - claim: 25% more crops can grow due to co2 increase
 - claim: polar bears aee doing well
