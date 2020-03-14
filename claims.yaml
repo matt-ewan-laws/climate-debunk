@@ -1,3 +1,16 @@
+- claim: Mann lied about peace price, saying he won it when he contributed to it
+  claimSources:
+    - link: 'https://www.heartland.org/news-opinion/news/michael-mann-falsely-claims-he-was-awarded-nobel-peace-prize'
+  points:
+    - it appears he didn\'t say he won`
+    - ad-hominem
+    - the argument is about semantics
+  resources:
+    - link: 'https://www.theguardian.com/profile/michael-e-mann'
+      quote: He was recognized with other Intergovernmental Panel on Climate Change authors for their contribution to the IPCC's 2007 Nobel Peace Prize
+    - link: 'https://en.wikipedia.org/wiki/Michael_E._Mann'
+      quote: The IPCC presented Mann, along with all other \"scientists that had contributed substantially to the preparation of IPCC reports\", with a personalized certificate \"for contributing to the award of the Nobel Peace Prize for 2007 to the IPCC\"
+  status: in progress
 - claim: Recent solar output has been high
   status: debunked
 - claim: Hubert Lamb's Chart propegated by Tim Ball is accurate
