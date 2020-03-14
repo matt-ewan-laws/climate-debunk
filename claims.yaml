@@ -37,7 +37,10 @@
     - link: 'https://www.metoffice.gov.uk/hadobs/hadcet/'
     - link: 'https://blog.hotwhopper.com/2015/03/tim-ball-recycling-medieval-warming.html'
     - link: 'https://pubs.giss.nasa.gov/docs/2009/2009_Jones_jo00100w.pdf'
-- claim: Noaa and IPCC have fiddled with the data deliberately making the historical data look colder so therefore the sharpness on their graph looks steeper. They have removed data they have fictitious data from 40% of the sites in America that no longer exist and they're still putting data in that is assumed
+  notes:
+    - note: The graph used by the IPCC in its First Assessment Report (IPCC FAR, 1990) was a version of a graph devised by Hubert Lamb.  Hubert Lamb\'s graph was based on the Central England Temperature series, a thermometer based record of temperatures in central England.  That record only extends back to 1659, whereas Lamb\'s graph extended back prior to 1000 AD.  Astute observers will therefore note that he must have relied on other information for the extension, and that other information was anecdotal historical data, mostly from Europe and Greenland.  Astute observers will further note that Central England is not the World, or even the Northern Hemisphere.  They will even note that Central England plus Greenland is still not the world or the NH and conclude that using strictly regional temperature information (and anecdotal information in the crucial period) is not an adequate methodology, and not to be preffered to using a number of temperature proxies from around the world.
+    - note: In the IPCC Second Assessment Report (IPCC SAR, 1996), the figure based on Lamb\'s guesses was replaced by proxy data, primarilly that from Bradley and Jones, 1993, which was a reconstruction based on 16 proxies and hence already a quantum leap in methodology over Lamb\'s free hand line drawn based on regional anecdotes
+- claim: Noaa and IPCC have fiddled with the data deliberately making the historical data look colder so therefore the sharpness on their graph looks steeper. They have removed data they have fictitious data from 40% of the sites in America that no longer exist and they\'re still putting data in that is assumed
 - claim: 25% more crops can grow due to co2 increase
 - claim: polar bears aee doing well
 - claim: Mann\'s graph is fraud
