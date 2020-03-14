@@ -1,6 +1,9 @@
 - claim: Mann lied about peace price, saying he won it when he contributed to it
   claimSources:
     - link: 'https://www.heartland.org/news-opinion/news/michael-mann-falsely-claims-he-was-awarded-nobel-peace-prize'
+    - link: 'https://realclimatescience.com/2019/09/michael-mann-fake-nobel-prize-fake-science/'
+    - link: 'https://canadafreepress.com/article/nobel-committee-rebukes-michael-mann-for-falsely-claiming-he-was-awarded-th'
+    - link: 'https://www.steynonline.com/5264/the-fraudulent-nobel-laureate'
   points:
     - it appears he didn\'t say he won`
     - ad-hominem
@@ -10,6 +13,8 @@
       quote: He was recognized with other Intergovernmental Panel on Climate Change authors for their contribution to the IPCC's 2007 Nobel Peace Prize
     - link: 'https://en.wikipedia.org/wiki/Michael_E._Mann'
       quote: The IPCC presented Mann, along with all other \"scientists that had contributed substantially to the preparation of IPCC reports\", with a personalized certificate \"for contributing to the award of the Nobel Peace Prize for 2007 to the IPCC\"
+    - link: 'https://archive.ipcc.ch/pdf/nobel/Nobel_statement_final.pdf'
+      quote: The IPCC has not sent such certificates to contributing authors, expert reviewers and focal points
   status: in progress
 - claim: Recent solar output has been high
   status: debunked
@@ -30,6 +35,11 @@
 - claim: 25% more crops can grow due to co2 increase
 - claim: polar bears aee doing well
 - claim: Mann\'s graph is fraud
-- claim: What about that Swedish physicist that you refuse to believe because he believes in something you can't prove. A physicist that was in charge of the UN / IPCC data Gathering service that was left no choice but to resign when he had been studying sea levels for 50 years. He was in charge of the department and of course they LIED to show in words that the sea has been rising but the graph that they put in showed it hadn't been rising so they remove the graph. Yet again bad science.
+- claim: What about that Swedish physicist that you refuse to believe because he believes in something you can\'t prove. A physicist that was in charge of the UN / IPCC data Gathering service that was left no choice but to resign when he had been studying sea levels for 50 years. He was in charge of the department and of course they LIED to show in words that the sea has been rising but the graph that they put in showed it hadn't been rising so they remove the graph. Yet again bad science.
 - claim: Apparently the Great Barrier Reef is supposed to be dying, wrong. It is moving because one side is dying off on the other side is expanding massively.
-- claim: Apparently the polar bears were supposed to be dieing out as they were down to 10000 but now they're up to nearly 40000, wow, and they're so healthy they're having triplets.
+- claim: Apparently the polar bears were supposed to be dieing out as they were down to 10000 but now they\'re up to nearly 40000, wow, and they're so healthy they're having triplets.
+
+- claim: Tim Ball is trustworthy as an acedmic
+  resources:
+    - link: https://arstechnica.com/science/2019/11/supreme-court-allows-climate-scientists-defamation-case-to-proceed/
+    - quote: Climate scientist (since elected to office in Canada) Andrew Weaver had also filed a libel lawsuit against Tim Ball in 2011. That case was dismissed last year because the judge said Ball's writing about Weaver lacked \"a sufficient air of credibility to make them believable and therefore potentially defamatory.\"
