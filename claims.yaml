@@ -28,6 +28,7 @@
   facts:
     - fact: based on a IPCC report that had many caveats
     - fact: data is from England only
+    - fact: a peer reviewed paper demonstrates, with the same methodology used by Lamb, that the temperature has gone up in line with the hockeystick
   needToProve:
     - fact: data stops at 1950
   resources:
