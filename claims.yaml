@@ -1,7 +1,8 @@
 - claim: Hockey stick is flawed
   resources:
     - link: 'https://skepticalscience.com/argument.php?a=3#108613'
-- claim: Mann lied about peace price, saying he won it when he contributed to it
+
+- claim: Mann lied about peace prize, saying he won it when he contributed to it
   claimSources:
     - link: 'https://www.heartland.org/news-opinion/news/michael-mann-falsely-claims-he-was-awarded-nobel-peace-prize'
     - link: 'https://realclimatescience.com/2019/09/michael-mann-fake-nobel-prize-fake-science/'
@@ -9,10 +10,12 @@
     - link: 'https://www.steynonline.com/5264/the-fraudulent-nobel-laureate'
     - link: 'https://legaltimes.typepad.com/files/michael-mann-complaint.pdf'
       title: Court document
+  concession:
+    - he may have forged a certificate
   rebuttals:
-    - it appears he didn\'t say he won
     - ad-hominem
     - the argument is about semantics
+    - current articles and interviews make it clear he contributed and did not win
   resources:
     - link: 'https://www.theguardian.com/profile/michael-e-mann'
       quote: He was recognized with other Intergovernmental Panel on Climate Change authors for their contribution to the IPCC's 2007 Nobel Peace Prize
